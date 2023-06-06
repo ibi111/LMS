@@ -1,0 +1,15 @@
+C:\Users\Furqan\source\repos\Lms\Lms\bin\Debug\net6.0\Lms.exe
+C:\Users\Furqan\source\repos\Lms\Lms\bin\Debug\net6.0\Lms.deps.json
+C:\Users\Furqan\source\repos\Lms\Lms\bin\Debug\net6.0\Lms.runtimeconfig.json
+C:\Users\Furqan\source\repos\Lms\Lms\bin\Debug\net6.0\Lms.dll
+C:\Users\Furqan\source\repos\Lms\Lms\bin\Debug\net6.0\Lms.pdb
+C:\Users\Furqan\source\repos\Lms\Lms\obj\Debug\net6.0\Lms.csproj.AssemblyReference.cache
+C:\Users\Furqan\source\repos\Lms\Lms\obj\Debug\net6.0\Lms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furqan\source\repos\Lms\Lms\obj\Debug\net6.0\Lms.AssemblyInfoInputs.cache
+C:\Users\Furqan\source\repos\Lms\Lms\obj\Debug\net6.0\Lms.AssemblyInfo.cs
+C:\Users\Furqan\source\repos\Lms\Lms\obj\Debug\net6.0\Lms.csproj.CoreCompileInputs.cache
+C:\Users\Furqan\source\repos\Lms\Lms\obj\Debug\net6.0\Lms.dll
+C:\Users\Furqan\source\repos\Lms\Lms\obj\Debug\net6.0\refint\Lms.dll
+C:\Users\Furqan\source\repos\Lms\Lms\obj\Debug\net6.0\Lms.pdb
+C:\Users\Furqan\source\repos\Lms\Lms\obj\Debug\net6.0\Lms.genruntimeconfig.cache
+C:\Users\Furqan\source\repos\Lms\Lms\obj\Debug\net6.0\ref\Lms.dll
