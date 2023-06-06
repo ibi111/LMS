@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using model;
 
-namespace LMS.DAL
+namespace DAL
 {
     class BookRepository
     {
@@ -113,3 +113,21 @@ namespace LMS.DAL
                 return;
 
 
+            }
+        }
+    }
+
+    class IdGenerator
+    {
+        private static int idCounter = 0;
+
+        public static int GenerateUniqueId()
+        {
+            int currentSeconds = (int)DateTimeOffset.UtcNow.ToUnixTimeSeconds();
+            int uniqueId = currentSeconds + idCounter;
+            idCounter++;
+            return uniqueId;
+        }
+    }
+
+}
