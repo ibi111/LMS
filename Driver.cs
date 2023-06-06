@@ -1,9 +1,9 @@
 ﻿
 using UI;
 
-namespace Program
+namespace Driver
 {
-    class Program
+    class Driver
     {
         static void Main(string[] args)
         {
